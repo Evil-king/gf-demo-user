@@ -1,4 +1,4 @@
-module github.com/gogf/template-single
+module github.com/Evil-king/gf-demo-user
 
 go 1.17
 
